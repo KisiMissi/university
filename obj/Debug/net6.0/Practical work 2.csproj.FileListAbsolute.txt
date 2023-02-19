@@ -1,0 +1,15 @@
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\Practical work 2.csproj.AssemblyReference.cache
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\Practical work 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\Practical work 2.AssemblyInfoInputs.cache
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\Practical work 2.AssemblyInfo.cs
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\Practical work 2.csproj.CoreCompileInputs.cache
+D:\Projects\University\Programming technologies\Practical work 2\bin\Debug\net6.0\Practical work 2.exe
+D:\Projects\University\Programming technologies\Practical work 2\bin\Debug\net6.0\Practical work 2.deps.json
+D:\Projects\University\Programming technologies\Practical work 2\bin\Debug\net6.0\Practical work 2.runtimeconfig.json
+D:\Projects\University\Programming technologies\Practical work 2\bin\Debug\net6.0\Practical work 2.dll
+D:\Projects\University\Programming technologies\Practical work 2\bin\Debug\net6.0\Practical work 2.pdb
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\Practical work 2.dll
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\refint\Practical work 2.dll
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\Practical work 2.pdb
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\Practical work 2.genruntimeconfig.cache
+D:\Projects\University\Programming technologies\Practical work 2\obj\Debug\net6.0\ref\Practical work 2.dll
